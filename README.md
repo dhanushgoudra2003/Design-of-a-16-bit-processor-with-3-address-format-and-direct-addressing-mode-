@@ -6,7 +6,15 @@ This project focuses on designing a 16-bit processor with:
 ✅ Direct addressing mode for efficient memory access.
 ✅ Pipeline architecture for improved performance.
 
+The processor was designed as part of the Computer Organization and Architecture (21ECSC201) course, providing hands-on experience with processor architecture and design principles.
+📂 Team Details
 
+Group: C1_8
+Si. No.	Roll No.	S.R.N.	Student Name
+1	302	01FE22BCS016	Dhanush Goudra
+2	305	01FE22BCS023	Rajesh M Patil
+3	321	01FE22BCS125	Kiran A Chikaraddi
+4	322	01FE22BCS143	Ashutosh Naryagol
 🛠 Functional Specifications
 🔹 1. 16-Bit Architecture
 
